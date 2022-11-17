@@ -1,0 +1,53 @@
+
+body{
+    background-color: black;
+   }
+   h1{
+    font-size:30px;
+   }
+#logo{
+    background-color: rgb(204, 0, 0);
+    width:auto;
+   }
+   .logo{
+    padding: 0;
+    margin: 0;
+    height:50px;
+   }
+  .image{
+    box-shadow: 0 3px 10px rgb(255,255,255);
+    height:460px;
+  }
+  p{
+    font-size: 20px;
+  }
+  .media{
+    padding:0 0px 65px 250px;
+  }
+  .video{
+    padding:0px 0px 65px 65px;
+  }
+  video{
+    box-shadow: 0 3px 10px rgb(255,255,255);
+    height:460px;
+    width:600px;
+  }
+  header{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+  .content,section,body{
+    display: inline-block;
+  }
+  p:hover{
+    color:aqua
+  }
+  h3{
+    color: bisque;
+  }
+  .title{
+    font-size: 25px;
+    color:lightslategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
