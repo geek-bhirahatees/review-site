@@ -40,9 +40,6 @@ body{
   .content,section,body{
     display: inline-block;
   }
-  p:hover{
-    color:aqua
-  }
   h3{
     color: bisque;
   }
